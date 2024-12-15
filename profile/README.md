@@ -51,5 +51,5 @@
 
 
 ## Server 아키텍처
-[Spring Server](https://github.com/YeongJae0114/Short-thesis/blob/main/README.md)
+[Spring Server](https://github.com/YeongJae0114/Short-thesis/blob/main/README.md)
 
