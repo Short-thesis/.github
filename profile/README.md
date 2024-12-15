@@ -48,3 +48,8 @@
 - **DBMS**: MySQL
 - **개발 언어**: Python, Java
 - **IDE**: Visual Studio Code, IntelliJ
+
+
+## Server 아키텍처
+[Spring Server](https://github.com/YeongJae0114/Short-thesis/blob/main/README.md)
+
