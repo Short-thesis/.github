@@ -13,10 +13,11 @@
 
 ### 프로젝트 내용
 #### 프로그램 흐름
-![프로그램 흐름](<Pasted image 20241109144957.png>)
+![image](https://github.com/user-attachments/assets/a40acf8f-ed4b-48df-a39c-f2c74ff94f36)
+
 
 #### 설계 흐름
-![설계 흐름](<Pasted image 20241109144736.png>)
+![image](https://github.com/user-attachments/assets/5edfd56f-cfb3-4326-9699-8fe38e227577)
 
 #### 구현 내용
 1. **KCI API 활용 논문 데이터 추출 및 저장**  
@@ -45,7 +46,6 @@
 
 ### 결과물
 [유튜브 링크](https://www.youtube.com/@짧은논문/shorts)
-![alt text](image.png)
 
 ### 개발 환경
 - **DBMS**: MySQL
